@@ -1,4 +1,4 @@
-
+![Task Manager API](project-banner.png.jpg)
 # Task Manager API
 
 A Spring Boot REST API for managing tasks.
