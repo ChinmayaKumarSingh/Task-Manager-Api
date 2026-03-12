@@ -35,3 +35,8 @@ Example Request:
 ### Get Tasks API
 
 ![Get Tasks](screenshots/api-get-tasks.png)
+## 📬 Postman Collection
+
+You can test APIs using the Postman collection below.
+
+[Download Postman Collection](postman/task-api.postman_collection.json)
