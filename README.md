@@ -30,3 +30,8 @@ Example Request:
  "description": "Complete task manager backend",
  "status": "IN_PROGRESS"
 }
+## 📸 API Testing
+
+### Get Tasks API
+
+![Get Tasks](screenshots/api-get-tasks.png)
