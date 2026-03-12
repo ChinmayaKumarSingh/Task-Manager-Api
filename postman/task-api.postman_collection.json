@@ -1,0 +1,26 @@
+{
+ "info": {
+  "name": "Task Manager API",
+  "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+ },
+ "item": [
+  {
+   "name": "Get Tasks",
+   "request": {
+    "method": "GET",
+    "url": {
+     "raw": "http://localhost:8080/tasks"
+    }
+   }
+  },
+  {
+   "name": "Create Task",
+   "request": {
+    "method": "POST",
+    "url": {
+     "raw": "http://localhost:8080/tasks"
+    }
+   }
+  }
+ ]
+}
